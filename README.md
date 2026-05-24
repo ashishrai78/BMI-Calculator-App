@@ -1,16 +1,53 @@
-# calculator
+# ⚖️ BMI Calculator App
 
-A new Flutter project.
+A modern and responsive BMI Calculator application built using Flutter and GetX. The app helps users calculate Body Mass Index (BMI), track weight history, and receive health-related tips including diet and exercise suggestions.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+# ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- ⚖️ BMI Calculation
+- 📊 Weight History Tracking
+- 💡 Health Tips & Suggestions
+- 🏃 Diet & Exercise Recommendations
+- 🎬 Smooth Animations
+- 📱 Responsive UI Design
+- 🎯 State Management using GetX
+- 💰 Google AdMob Integration
+- 🌙 Clean & Modern User Interface
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 🛠 Tech Stack
+
+### Frontend
+- Flutter
+- Dart
+
+### State Management
+- GetX
+
+### Monetization
+- Google AdMob
+
+### UI/UX
+- Material Design
+- Responsive UI
+
+### Tools
+- Git
+- GitHub
+- Android Studio
+
+---
+
+# 📂 Project Structure
+
+```bash
+lib/
+ ├── models/
+ ├── controllers/
+ ├── screens/
+ ├── widgets/
+ ├── services/
+ └── main.dart
